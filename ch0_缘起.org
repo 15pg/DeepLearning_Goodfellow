@@ -10,7 +10,7 @@
 
 从今天开始，从下面这本书开始：
 
-- [Deep Learning](http://www.deeplearningbook.org). Ian Goodfellow, Yoshua Bengio, Aaron Courville. MIT Press, 2016
-- [beautiful and flawless PDF version](https://github.com/janishar/mit-deep-learning-book-pdf)
+- [[http://www.deeplearningbook.org][Deep Learning]]. Ian Goodfellow, Yoshua Bengio, Aaron Courville. MIT Press, 2016
+- [[https://github.com/janishar/mit-deep-learning-book-pdf][beautiful and flawless PDF version on github]]
 
 2018/03/28 16:50:15
